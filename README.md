@@ -2,11 +2,11 @@
 Analise de dados, voltada para analise de performance de uma planilha, em que será desenvolvido um danshboard, para analises visuais.
 
 
-## Objetivo do projeto
+### Objetivo do projeto
 Levantar dados para analise de performance
 
 
-## Aplicação
+### Aplicação `#B0E0E6`
 O projeto inicialmente foi criado devido uma proposta, mas pode ser adaptado para outras situaçãoes. Irei este projeto da seguinte forma:
 
 
@@ -15,5 +15,9 @@ O projeto inicialmente foi criado devido uma proposta, mas pode ser adaptado par
 3. Elaboração de dashboards focados em performance
 4. Levantamento de informações para melhoria
 
+> Lembrando que pode ser adptado de acordo com sua demanda
 
-## Desenvolvimento
+### Desenvolvimento
+
+1. Tratamento dos dados
+Nesta parte iremos seguir por alguns passos. inicialmente vamos 
