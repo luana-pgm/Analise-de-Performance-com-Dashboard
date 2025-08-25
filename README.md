@@ -6,7 +6,7 @@ Analise de dados, voltada para analise de performance de uma planilha, em que se
 Levantar dados para analise de performance
 
 
-### Aplicação `#B0E0E6`
+### Aplicação 
 O projeto inicialmente foi criado devido uma proposta, mas pode ser adaptado para outras situaçãoes. Irei este projeto da seguinte forma:
 
 
@@ -20,4 +20,7 @@ O projeto inicialmente foi criado devido uma proposta, mas pode ser adaptado par
 ### Desenvolvimento
 
 1. Tratamento dos dados
-Nesta parte iremos seguir por alguns passos. inicialmente vamos 
+   
+Nesta parte iremos seguir por alguns passos. inicialmente vamos criar um novo notebook usando python, irei usar a biblioteca do [Google Colab](https://colab.research.google.com/)
+
+Em seguida iremos 
